@@ -1,0 +1,17 @@
+
+.title-custom{
+  color: #4A4A4A;
+}
+
+.btn-custom{
+  color: #289BDE;
+  border: 1px solid #289BDE;
+}
+
+.btn-custom:hover{
+  background: #289BDE;
+}
+
+.btn-custom:focus {
+  background: #289BDE;
+}
