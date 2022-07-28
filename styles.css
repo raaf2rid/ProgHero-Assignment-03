@@ -15,17 +15,24 @@
 
 .btn-custom-2{
   background-color: #289BDE;
-  border: none;
+  border: 1px solid #289BDE;
 }
 
 .btn-custom:hover,
 .btn-custom:focus
 {
   background-color: #289BDE;
+
 }
 
 .btn-custom-2:hover,
 .btn-custom-2:focus{
   color: #289BDE;
   background-color: white;
+  border: 1px solid #289BDE;
+
+}
+
+.modal-custom{
+  background-color: #289BDE;
 }
