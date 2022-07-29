@@ -36,3 +36,7 @@
 .modal-custom{
   background-color: #289BDE;
 }
+
+.custom-banner {
+  filter: brightness(60%);
+}
